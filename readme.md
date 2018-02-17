@@ -15,14 +15,12 @@ pip3 install selenium
 ```
 
 2. Install firefox and add geckodriver to path
--Download geckodriver
---Link: https://github.com/mozilla/geckodriver
+    - Download geckodriver https://github.com/mozilla/geckodriver
 
--Add to PATH
---Ref: https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10
+    - Add geckodriver to PATH https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10
 
--Alternative option for above step
---Download geckodriver.exe and feedback.py put them in same folder and execute feedback.py
+
+    - Alternative option for above step. Download geckodriver.exe and feedback.py put them in same folder and execute feedback.py
 
 3. Run feedback.py
 ```
