@@ -522,3 +522,11 @@ Unable to read VR Path Registry from C:\Users\Akshay kumar\AppData\Local\openvr\
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1518855274508	geckodriver	INFO	geckodriver 0.19.1
+1518855274517	geckodriver	INFO	Listening on 127.0.0.1:55772
+1518855277645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile.Xy31OcTxSYp0"
+1518855279882	Marionette	INFO	Enabled via --marionette
+1518855286576	Marionette	INFO	Listening on port 55780
+1518855287680	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Akshay kumar\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
