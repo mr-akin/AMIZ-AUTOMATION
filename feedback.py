@@ -1,6 +1,6 @@
 '''
 Author : Akshay chauhan
-Description : This script only works with firefox for other browser support change line 14
+Description : This script only works with firefox, for other browser support change line 15
 Reference : http://selenium-python.readthedocs.io/
 '''
 

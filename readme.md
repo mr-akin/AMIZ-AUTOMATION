@@ -20,11 +20,11 @@ pip3 install selenium
     - Add geckodriver to PATH https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10
 
 
-    - Alternative option for above step. Download geckodriver.exe and feedback.py put them in same folder and execute feedback.py
+    - Alternative option for above step. Download geckodriver.exe and feedback.py put them in same folder and execute feedback.py or download this repo and execute feedback.py
 
 3. Run feedback.py
 ```
 python feedback.py
 ```
 
-## Any queries? contact at thekakinapps@gmail.com
+### Any queries? contact at theakinapps@gmail.com
