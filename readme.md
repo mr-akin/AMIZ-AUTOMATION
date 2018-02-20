@@ -5,7 +5,7 @@ Note:
 ## How to use?
 
 ### 1. Easy way 
- - Download feedback executable_w.zip Click on url to download! https://goo.gl/QjrxdK
+ - Download feedback executable_w.zip . Click on url to download! https://goo.gl/QjrxdK
  - Extract the file
  - Run feedback.exe from the extracted folder
  - Enjoy!
