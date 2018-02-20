@@ -3,6 +3,14 @@ Note:
 > Its just for educational purpose, use of this utility for malicious purposes is strictly prohibited.
 
 ## How to use?
+
+### 1. Easy way 
+        - Download feedback executable_w.zip
+        - Extract the file
+        - Run feedback.exe from the extracted folder
+        - Enjoy!
+
+### 2. Difficult way (for Nerds)
 1. Install selenium
 ```
 ### Open cmd and run
