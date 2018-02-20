@@ -5,10 +5,10 @@ Note:
 ## How to use?
 
 ### 1. Easy way 
-        - Download feedback executable_w.zip
-        - Extract the file
-        - Run feedback.exe from the extracted folder
-        - Enjoy!
+ - Download feedback executable_w.zip Click on url to download! https://goo.gl/QjrxdK
+ - Extract the file
+ - Run feedback.exe from the extracted folder
+ - Enjoy!
 
 ### 2. Difficult way (for Nerds)
 1. Install selenium
