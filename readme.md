@@ -9,7 +9,7 @@ Note:
      a. Windows : https://goo.gl/QjrxdK
      b. Mac     : https://goo.gl/ySxNtC
  - Extract the file
- - Run feedback.exe from the extracted folder
+ - Run feedback.exe/feedback from the extracted folder
  - Enjoy!
 
 ### 2. Difficult way (for Nerds)
